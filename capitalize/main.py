@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 """
 A really simple script just to demonstrate packaging
