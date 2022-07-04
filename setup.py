@@ -6,5 +6,5 @@ setup(name='capitalize',
           packages=['capitalize',
                     'capitalize.test'],
           scripts=['bin/cap_script.py'],
-          package_data= ['data/cap_data.txt'],
+          package_data= {'capitalize':['data/cap_data.txt']},
           )
